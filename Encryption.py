@@ -2,6 +2,7 @@
 
     Completed 14/10/2020
     Difficulty: Medium
+    Url: https://www.hackerrank.com/challenges/encryption/problem
 
 """
 

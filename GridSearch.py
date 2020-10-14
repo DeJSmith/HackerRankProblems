@@ -2,6 +2,7 @@
 
     Completed on 14/10/202
     Difficulty: Medium
+    Url: https://www.hackerrank.com/challenges/the-grid-search/problem
 
 """
 
